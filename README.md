@@ -3,5 +3,5 @@ Intro to GitHub tutorial
 
 Hello!
 
-Pending here, I'm on a code learning journey.
-I'm also on a learning GitHub journey currently.
+I'm Pending, I'm on a code learning journey.
+I'm also currently on a learning GitHub journey.
